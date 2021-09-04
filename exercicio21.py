@@ -1,0 +1,5 @@
+nom=str(input("Digite seu nome:"))
+prof=str(input("Digite sua profissão:"))
+i=int(input("Digite sua idade:"))
+sal=float(input("Digite seu salário:"))
+print("Seu nome é",nom,"sua profissão é",prof,"sua idade é",i,"seu salário é",sal)
